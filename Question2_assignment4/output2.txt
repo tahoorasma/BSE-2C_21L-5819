@@ -1,0 +1,16 @@
+Entered word: CYBERSPACE
+Indices: (3,6)(12,6)
+Entered word: SCROLL
+Indices: (11,9)(16,14)
+Entered word: PORT
+Indices: (9,6)(12,3)
+Entered word: JPEG
+Indices: (0,0)(0,3)
+Entered word: USB
+Indices: (1,16)(1,14)
+Entered word: HARDWARE
+Indices: (8,13)(1,13)
+Entered word: JAVA
+Indices: (4,12)(1,9)
+Entered word: QUSTUNTUNIA
+Indices: Word not found!
